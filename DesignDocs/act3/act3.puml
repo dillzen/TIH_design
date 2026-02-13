@@ -1,0 +1,29 @@
+@startuml Act 1
+title ==Act 1 Puzzle Flow==
+' header __This is the header__
+' footer //Confidential - Do not share//
+
+caption This caption is above the diagram
+
+' legend right
+' ' ==Legend==
+' Alice: Client
+' Bob: Server
+' end legend
+
+[Assemble Team] -> [Create Plan]
+' how did COTL handle plan vs actions vs outcome?
+
+
+[Start Run]
+
+
+' note top of Alice : Client side
+' ote top of Bob : Server side
+
+' Alice -> Bob : Request
+' Bob --> Alice : Response
+
+@enduml
+
+

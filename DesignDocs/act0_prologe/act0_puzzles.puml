@@ -1,0 +1,16 @@
+@startuml eins
+title ==Prologue Puzzle Flow==
+' header __This is the header__
+' footer //Confidential - Do not share//
+
+caption This caption is above the diagram
+
+[Install Police Chip] --> [Get Jenjen Hint]
+[Examine Corpse] --> [Get Jenjen Hint]
+
+
+[Acquire Bounce Board Device] --> [Find Code for Counterwave]
+
+
+
+@enduml

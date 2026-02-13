@@ -1,0 +1,27 @@
+@startuml eins
+title ==Prologue Puzzle Flow==
+' header __This is the header__
+' footer //Confidential - Do not share//
+
+caption This caption is above the diagram
+
+' legend right
+' ' ==Legend==
+' Alice: Client
+' Bob: Server
+' end legend
+
+[Enter InInc] -> [Make final choice] 
+[Confront MRa]
+[Make final choice] 
+
+
+' note top of Alice : Client side
+' ote top of Bob : Server side
+
+' Alice -> Bob : Request
+' Bob --> Alice : Response
+
+@enduml
+
+

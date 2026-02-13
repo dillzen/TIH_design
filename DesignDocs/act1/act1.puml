@@ -1,0 +1,33 @@
+@startuml Act 1
+title ==Act 1 Puzzle Flow==
+' header __This is the header__
+' footer //Confidential - Do not share//
+
+caption This caption is above the diagram
+
+' legend right
+' ' ==Legend==
+' Alice: Client
+' Bob: Server
+' end legend
+
+[Gain Squarespace accesss] -> [Hack Museum]
+
+[Talk to Henry]
+
+[Hack Museum] -> [X]
+
+[Acquire Bounce Board Device] --> [Find Code for Counterwave]
+
+
+
+
+' note top of Alice : Client side
+' ote top of Bob : Server side
+
+' Alice -> Bob : Request
+' Bob --> Alice : Response
+
+@enduml
+
+
