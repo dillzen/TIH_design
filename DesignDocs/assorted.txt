@@ -3,7 +3,11 @@
 revised demo / prologue.
 
 
+ideas:
 
+pending software update on PCPad
+software update with AI-integration fires shortly before boss puzzles
+puzzle includes turning off annoying AI features
 
 
 

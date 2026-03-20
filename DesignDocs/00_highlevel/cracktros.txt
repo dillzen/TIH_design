@@ -1,3 +1,34 @@
+
+Font
+
+For "blocky but modern," avoid pixel fonts that look like they're literally from 1984. Better choices:
+
+Press Start 2P (Google Fonts / free) — chunky, clean, readable at any size, widely recognized as retro without feeling dusty
+VT323 — thinner, terminal-green CRT energy, less aggressive
+Import into Unity via TextMeshPro's Font Asset Creator (bitmap fonts work great here too; just set no anti-aliasing)
+Per-character effects using TMP vertex animation
+
+TMP exposes raw mesh vertices per character via TMP_TextInfo, letting you move/color each character independently every frame. This is the engine of most interesting effects:
+
+1. Sine wave vertical wobble — each character bobs up/down offset by its index. Classic demoscene, but smooth and modern-readable. Amplitude 3–8px looks subtle; 15–20px is dramatic.
+
+2. Color cycling / rainbow — shift hue along the text based on (charIndex + time). Use a curated palette (e.g. synthwave: magenta → cyan → yellow) rather than raw HSV. One character could pulse white as a highlight traveling through.
+
+3. Periodic character "scramble" glitch — every few seconds, 1–3 random characters swap to a wrong glyph for 2–4 frames, then snap back. Reads as "data corruption" / future-tech, not authentic C64 at all. Very readable since it's brief.
+
+4. Traveling highlight — a "spotlight" that moves through the text at a different (faster) speed than the scroll, brightening characters it passes. No distortion, just luminance. Feels like light reflecting off chrome lettering.
+
+5. Vertical jitter on individual chars — not all chars, just 1–2 at a time, randomly chosen, jump 1–2px for a single frame. Subliminal; viewers feel it more than see it.
+
+What to avoid for your goal
+
+Full CRT scanline overlay — it darkens and blurs, which reads as "retro gimmick" and hurts readability
+Chromatic aberration on the full text — similarly abrasive
+100% authentic C64 palette — the 16 colors feel dated; a neon/synthwave remix of them lands better
+
+
+
+
 Aesthetic Element,Description,Vibe/Atmosphere
 The Scroller,"A smooth, scrolling banner of text (the ""message"") across the bottom or top of the screen.","Defiant, Direct, Communication. The primary way groups left their mark and advertised their skills and ethos."
 The Logo/Icon,"A highly detailed, often aggressive or edgy logo of the cracking or demoscene group, typically with complex color effects.","Identity, Skill, Swagger. A claim of technical superiority and a badge of honor."
