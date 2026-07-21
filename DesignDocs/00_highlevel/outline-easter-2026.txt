@@ -45,6 +45,7 @@ Hook (2):
 Investigatin INC/inc with their cooperation here, hitting certain walls and inconsistencies. then, towards the end of the game,
 loop back here, to close a circle of sorts. 
 
+every scene must have a problem to solve, must induce in the player a want to solve something 
 
 ACT II
 
@@ -53,6 +54,9 @@ We open up the world further:
 
 - different domes?
 
+- hot zone?
+
+- perdition? 
 
 
 
@@ -95,12 +99,5 @@ Agility: Well into the 2100s, organizatzions used a legacy approach to managing 
 AI: 
 
 Intention: Khamma
-
-
-
-test keychron keyboard v ` 1 2 3 ! @ $ # \|||| 
-
-
-&.&&
 
 
