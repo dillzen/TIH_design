@@ -15,7 +15,7 @@ Palmer/Jenjen should have a concrete conflict with their ideology or goals, and 
 
 It could serve as foil for Jenjen, who will be enarmored with the scene at the start of the game.
 
-
+ 
 "the hot zone" - outskirts without AC, counterculture might choose to live there
 
 
@@ -111,14 +111,20 @@ Ezra accepts perdition, to the surprise of Milton
 
 ... 
 
-Ezra's son is in fact bount for perdition. She lies throughout acts 1-3 that it is about disease. 
+Ezra's son is in fact bound for perdition. She lies throughout acts 1-3 that it is about disease. 
 Milton Cortez registered C because of that. (We can hint at it by showing kids with a similar condition not being accepted into I/Inc.)
 
 
 
-"I don't... I don't understand. She... she chose this?"
+" She... she chose this? I ... I don't understand."
 
 "No. You well and truly fucking don't." 
+
+
+The last should could simply be T/Cortez/Milton yelling "Fuck you!!!", as P&JJ ride off into the night. Stonewalling of sociopath as solution. 
+Milton is the tempter, not Mara in the end.
+ 
+"I never said I was Mara."
 
 
 
@@ -168,11 +174,16 @@ dilemma is the source of your story
 impossibility to get the protagnoists want - ego death, new perspective
 
 every scene needs a goal / want
+<<<<<<< HEAD
 every scene has conflict
+=======
+every scene has conflict    
+>>>>>>> 2578b41 (..)
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -183,3 +194,6 @@ Closing the circle:
 
 First scene, Palmer plays while talking to boss, the same game in which
 C is >>trapped<<. 
+=======
+... beauty? does Milton have a beautiful home / office? Is beatuy a part of the story?
+>>>>>>> 2578b41 (..)

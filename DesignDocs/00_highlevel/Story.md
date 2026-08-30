@@ -90,7 +90,7 @@ They found out k. is bent in order to
 - bend the newfound rules of the universe
 
 
-It does not matter what the objective rules of the universe are. Perhaps some day we'll find something even deeper behind the world of khamme. You will find humans trying to exploit it the moment it is discovered.
+It does not matter what the objective rules of the universe are. Perhaps some day we'll find something even deeper behind the world of khamma. You will find humans trying to exploit it the moment it is discovered.
 
 
 
