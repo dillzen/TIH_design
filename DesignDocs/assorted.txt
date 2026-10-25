@@ -1,5 +1,8 @@
 
 
+
+
+
 intro: psychotic homeless ranting about karma being a kgb scam, and "dharmic marxism"or similar
 
  Mustaine studies (renegate scholar argues Mustaine was, in fact, not over getting kicked out of Metallica)z
@@ -161,7 +164,7 @@ communication to another humnan being.
 opening: lay out the argument and generate interest. 
 
 how do I / shall I open:
-with the murder? inciting incident, does not show palmers life before
+with the murder? inciting incident, does not show palmers life before 
 a shot of his gambling problem? how does it lay out the argument / theme, engage the player, ..
 
 
@@ -184,6 +187,7 @@ every scene has conflict
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -197,3 +201,32 @@ C is >>trapped<<.
 =======
 ... beauty? does Milton have a beautiful home / office? Is beatuy a part of the story?
 >>>>>>> 2578b41 (..)
+=======
+... beauty? does Milton have a beautiful home / office? Is beatuy a part of the story?
+
+"So, what you're saying is..." 
+"Don't say it"
+"We got a mystery on our hands."
+"(Pause.) Yeah... (enthusiastic) fuck me."
+ 
+
+Kim: "That could usher in a completly distopian society." 
+Jenjen: "You mean even more than we already got?"
+Kim: "Well. Yes."
+
+
+" What is the drive behind virtual reality? The insight that if we control our perception, rather than the external world that determines our perceptions, we are free. 
+we want to be free of the consequences of our actions, and the moral implication of having a sentience other than ours which our actions may affect.
+
+alcohol is the original hack.
+
+
+
+
+Vorauseilender Gehorsam. If Milton trains C to do X, but does it in a way that C needs to ascertain and guess Miltons wishes (or of a Maria), then he is able to 
+kill without consequence. 
+Generating "Paths" , 
+
+"And what do you intend to do with this power?"
+"To be honest, I haven't gotten a good idea yet. The important part is that I possess it."
+>>>>>>> 69a4d86 (claude writeup, bits and pieces)
